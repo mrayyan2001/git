@@ -1,3 +1,3 @@
 Hello, World!  
 this is new feature  
-make a conflict  
+make a conflict
