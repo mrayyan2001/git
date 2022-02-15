@@ -1,6 +1,6 @@
 # git
 
-```cs=
+```cs
     // Print statement is C#
     Console.WriteLine("Hello, World!");
 ```
